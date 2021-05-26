@@ -12,15 +12,17 @@ class Feedback {
 List<Feedback> feedbacks = [
   Feedback(
     id: 1,
-    name: "Ronald Thompson",
-    review: review,
+    name: "Wole Faroun",
+    review:
+        "Manasseh Joined the team over a yeaer ago as a Junior developer and has demonstrated willingness to learn and be independent. He was instrumental to the development of the self-service platform Saddle.",
     userPic: "assets/images/people.png",
     color: Color(0xFFFFF3DD),
   ),
   Feedback(
     id: 2,
-    name: "Ronald Thompson",
-    review: review,
+    name: "Elizabeth Krebs",
+    review:
+        "I had a wonderful experience working with Manasseh on a job to develop and host some websites for me - he was very available and responsive to requests and when he had other commitments he was honest about them.",
     userPic: "assets/images/people.png",
     color: Color(0xFFD9FFFC),
   ),

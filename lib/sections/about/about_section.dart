@@ -22,14 +22,14 @@ class AboutSection extends StatelessWidget {
               Expanded(
                 child: AboutSectionText(
                   text:
-                      "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore mag aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+                      "Hardworking, highly proficient Backend Developer with 3 years of experience in software development who is versed in requirement gathering, designing, developing, implementing, debugging, testing & deployment of Web applications.",
                 ),
               ),
-              ExperienceCard(numOfExp: "08"),
+              ExperienceCard(numOfExp: "03"),
               Expanded(
                 child: AboutSectionText(
                   text:
-                      "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore mag aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+                      " Having helped developed a series of commercially successful web applications. I am seeking a new opportunity that will allow me to further expand on these skills.",
                 ),
               ),
             ],

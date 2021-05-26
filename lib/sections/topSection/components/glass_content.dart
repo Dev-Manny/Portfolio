@@ -45,7 +45,7 @@ class GlassContent extends StatelessWidget {
                 ),
               ),
               Text(
-                "Creative Design Director",
+                "Backend & Mobile Application Developer",
                 style: Theme.of(context)
                     .textTheme
                     .headline5

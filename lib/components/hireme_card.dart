@@ -37,12 +37,12 @@ class HireMeCard extends StatelessWidget {
               crossAxisAlignment: CrossAxisAlignment.start,
               children: [
                 Text(
-                  "Starting New Project?",
+                  "Need an experienced developer?",
                   style: TextStyle(fontSize: 42, fontWeight: FontWeight.bold),
                 ),
                 SizedBox(height: kDefaultPadding / 2),
                 Text(
-                  "Get an estimate for the new project",
+                  "Get in touch with me",
                   style: TextStyle(fontWeight: FontWeight.w200),
                 )
               ],

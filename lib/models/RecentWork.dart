@@ -9,26 +9,29 @@ class RecentWork {
 List<RecentWork> recentWorks = [
   RecentWork(
     id: 1,
-    title: "New & Fresh Looking Portfolio indeed at the end",
-    category: "Graphic Design",
+    title:
+        "Flycash allows you buy and sell seamless and fast without the need for a card or a POS Machine, – just your mobile phone",
+    category: "Mobile Application",
     image: "assets/images/work_1.png",
   ),
   RecentWork(
     id: 2,
-    title: "New & Fresh Looking Portfolio indeed at the end",
-    category: "Graphic Design",
+    title:
+        "Saddle: Delivery Management Solution for Businesses. Courier Gateway for SMEs and Individuals. ",
+    category: "SAAS application",
     image: "assets/images/work_2.png",
   ),
   RecentWork(
     id: 3,
-    title: "New & Fresh Looking Portfolio indeed at the end",
-    category: "Graphic Design",
+    title:
+        "Sendpackage: Allows merchants to send goods from one point to the other",
+    category: "Single-page Web Application",
     image: "assets/images/work_3.png",
   ),
   RecentWork(
     id: 4,
-    title: "New & Fresh Looking Portfolio indeed at the end",
-    category: "Graphic Design",
+    title: "TaskApp: An application for creating task",
+    category: "Mobile Application",
     image: "assets/images/work_4.png",
   ),
 ];
